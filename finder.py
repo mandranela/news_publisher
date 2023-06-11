@@ -22,7 +22,7 @@ class NewsChannel:
         self.name = name
         self.url = url
         self.news = []
-        self.last_updated = datetime.datetime.now()-datetime.timedelta(hours=1)
+        self.last_updated = datetime.datetime.now()-datetime.timedelta(minutes=20)
 
     def check_news(self):
         """
