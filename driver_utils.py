@@ -21,7 +21,7 @@ class Driver:
     def __init__(self):
         options = Options()
         options.add_argument('-headless')
-        options.add_argument('--disable-gpu')
+        options.add_argument('-disable-gpu')
         self.driver = webdriver.Firefox(options=options)
 
     def __enter__(self):
@@ -138,7 +138,33 @@ class ChannelPage(BasePage):
             published_time = parse_time_string(_article.find('div', {'class': 'zen-ui-common-layer-meta'}).text)
             title = _article.h2.text
             link = _article.find('a', {'class': 'zen-ui-line-clamp'})['href'].split('?')[0]
+            # print(f"Article: {title}\ntime difference = {published_time - last_update}")
             if published_time > last_update:
                 articles.append(Article(title=title, published_time=published_time, link=link))
-
         return articles
+
+
+class ArticlePage(BasePage):
+    """
+    Класс для страницы статьи на Dzen.
+    """
+
+    max_scrolls = 10
+
+    def __init__(self, driver: webdriver.Firefox, article_url: str):
+        """
+        Инициализирует класс ArticlePage.
+
+        :param driver: экземпляр веб-драйвера.
+        :param article_url: URL статьи.
+        """
+        super().__init__(driver)
+        self.article_url = article_url
+
+    def get_article(self) -> str:
+        self.driver.get(self.article_url)
+
+        self.wait.until(EC.presence_of_element_located((By.CLASS_NAME, "article")))
+        page_html = self.get_page_html()
+        
+        return page_html

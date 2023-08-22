@@ -1,6 +1,7 @@
 import json
 import os
 from datetime import datetime, timedelta
+from typing import List
 
 
 def parse_time_string(time_str: str) -> datetime:

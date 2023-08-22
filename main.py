@@ -1,12 +1,24 @@
+import asyncio, json
+
 from finder import NewsAggregator, NewsChannel
 
-if __name__ == '__main__':
-    channels = [
-        NewsChannel('AIF', 'https://dzen.ru/aif.ru'),
-        NewsChannel('RBC', 'https://dzen.ru/rbc.ru'),
-        NewsChannel('KPRU', 'https://dzen.ru/kpru'),
-        NewsChannel('Lenta.ru', 'https://dzen.ru/lenta.ru'),
-        NewsChannel('TopWar.ru', 'https://dzen.ru/topwar.ru'),
-    ]
+
+def load_dzen_channels(path: str):
+    with open(path) as file:
+        dzen_channels = json.load(file)
+    
+    dzen_channels = [NewsChannel(name, url) for name, url in dzen_channels.items()]
+    
+    return dzen_channels
+
+
+async def main():
+    dzen_path = "dzen_channels.json"
+    
+    channels = load_dzen_channels(dzen_path)
     aggregator = NewsAggregator(channels)
-    aggregator.run()
+    await aggregator.run()
+
+
+if __name__ == "__main__":
+    asyncio.run(main())

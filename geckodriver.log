@@ -1,0 +1,1406 @@
+1692712741620	geckodriver	INFO	Listening on 127.0.0.1:37291
+1692712742124	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "45571" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileO3Yvn9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692712743030	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692712743187	Marionette	INFO	Listening on port 45385
+WebDriver BiDi listening on ws://127.0.0.1:45571
+Read port: 45385
+1692712743514	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45571/devtools/browser/dc253435-6465-439e-bbb5-47fab771cbfe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692712747293	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692712747944	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 1063, MediaDecoderStateMachine #1] WARNING: Decoder=7fb95b14e000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://static.dzeninfra.ru/yandex-video-player-iframe-api-bundles/shaka/2.5.17-yandex-patched-fix-ttml-parsing/shaka-player.compiled.js, line 461: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc
+[Child 1063, MediaDecoderStateMachine #1] WARNING: Decoder=7fb95b14d100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://static.dzeninfra.ru/yandex-video-player-iframe-api-bundles/shaka/2.5.17-yandex-patched-fix-ttml-parsing/shaka-player.compiled.js, line 461: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc
+[Child 1063, MediaDecoderStateMachine #1] WARNING: Decoder=7fb95e137900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://static.dzeninfra.ru/yandex-video-player-iframe-api-bundles/shaka/2.5.17-yandex-patched-fix-ttml-parsing/shaka-player.compiled.js, line 461: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc
+1692712756703	Marionette	INFO	Stopped listening on port 45385
+[Child 1063, MediaDecoderStateMachine #1] WARNING: Decoder=7fb95e138b00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 30: Script terminated by timeout at:
+48612/e.exports@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:30:23964
+k@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:30:21285
+
+1692712758874	geckodriver	INFO	Listening on 127.0.0.1:41387
+1692712759379	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "42971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewWOit3"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692712759825	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692712759926	Marionette	INFO	Listening on port 38537
+WebDriver BiDi listening on ws://127.0.0.1:42971
+Read port: 38537
+1692712760253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42971/devtools/browser/1f3f4373-a9b3-4473-9364-8e6e2220a992
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692712763324	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692712764068	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1692712822082	geckodriver	INFO	Listening on 127.0.0.1:54201
+1692712822087	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "60719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2XvGs7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692712822509	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692712822607	Marionette	INFO	Listening on port 42657
+WebDriver BiDi listening on ws://127.0.0.1:60719
+Read port: 42657
+1692712822951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60719/devtools/browser/544b120e-87ef-4d47-968d-8e332b43c8fe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692712826232	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692712826887	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692712833983	Marionette	INFO	Stopped listening on port 42657
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 115: Script terminated by timeout at:
+27930/ic/<@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:115:967287
+
+1692712836147	geckodriver	INFO	Listening on 127.0.0.1:39571
+1692712836651	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "55085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTAmqfg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692712837062	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692712837152	Marionette	INFO	Listening on port 37175
+WebDriver BiDi listening on ws://127.0.0.1:55085
+Read port: 37175
+1692712837492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55085/devtools/browser/bab1a3d7-4930-4961-99d7-35bc40dccd7b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692712840568	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692712841273	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692712847833	Marionette	INFO	Stopped listening on port 37175
+1692712850087	geckodriver	INFO	Listening on 127.0.0.1:37973
+1692712850592	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "36953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaTMIRw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692712851005	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692712851100	Marionette	INFO	Listening on port 41973
+WebDriver BiDi listening on ws://127.0.0.1:36953
+Read port: 41973
+1692712851433	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36953/devtools/browser/3624e4b1-e321-4aef-a6f6-e0cba6b24935
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692712854683	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692712855293	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692712862485	Marionette	INFO	Stopped listening on port 41973
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 115: Script terminated by timeout at:
+27930/ic/<@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:115:967287
+
+1692712864774	geckodriver	INFO	Listening on 127.0.0.1:48659
+1692712865278	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "44635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDnXiXM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692712865731	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692712865834	Marionette	INFO	Listening on port 44759
+WebDriver BiDi listening on ws://127.0.0.1:44635
+Read port: 44759
+1692712866128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44635/devtools/browser/5e2de8ca-94f2-4224-a2ed-6daf38851f13
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692712869308	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692712869981	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1692712896547	geckodriver	INFO	Listening on 127.0.0.1:43863
+1692712897051	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "43905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6wvF5C"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692712897469	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692712897573	Marionette	INFO	Listening on port 45261
+WebDriver BiDi listening on ws://127.0.0.1:43905
+Read port: 45261
+1692712897885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43905/devtools/browser/363169e4-edb3-480d-aab9-d6158783e866
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692712900882	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692712901547	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692712908841	Marionette	INFO	Stopped listening on port 45261
+JavaScript warning: https://mc.yandex.ru/metrika/watch_zen.js, line 206: Script terminated by timeout at:
+c.prototype.Ra@https://mc.yandex.ru/metrika/watch_zen.js:206:487
+a.prototype.ed@https://mc.yandex.ru/metrika/watch_zen.js:195:148
+a.prototype.Bc/<@https://mc.yandex.ru/metrika/watch_zen.js:185:335
+A/<@https://mc.yandex.ru/metrika/watch_zen.js:90:60
+a.prototype.Bc@https://mc.yandex.ru/metrika/watch_zen.js:185:441
+A/<@https://mc.yandex.ru/metrika/watch_zen.js:90:60
+
+1692712911149	geckodriver	INFO	Listening on 127.0.0.1:51591
+1692712969638	geckodriver	INFO	Listening on 127.0.0.1:39821
+1692712970143	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6fyuDp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692712971449	Marionette	INFO	Marionette enabled
+1692712971592	Marionette	INFO	Listening on port 37231
+WebDriver BiDi listening on ws://127.0.0.1:42845
+Read port: 37231
+1692712971884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42845/devtools/browser/114890c3-c699-4b65-94f7-3be0637cd535
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692712978830	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692712980469	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692712993311	Marionette	INFO	Stopped listening on port 37231
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 115: Script terminated by timeout at:
+27930/ic/<@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:115:967287
+
+1692712995944	geckodriver	INFO	Listening on 127.0.0.1:53751
+1692712996448	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDU6HX8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692712997156	Marionette	INFO	Marionette enabled
+1692712997331	Marionette	INFO	Listening on port 44069
+Read port: 44069
+WebDriver BiDi listening on ws://127.0.0.1:51543
+1692712997441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51543/devtools/browser/0051ccb2-ad15-461b-86b0-7178e5909bd3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692713001896	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692713002582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692713010437	Marionette	INFO	Stopped listening on port 44069
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 115: Script terminated by timeout at:
+27930/ic/<@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:115:967287
+
+1692713013868	geckodriver	INFO	Listening on 127.0.0.1:50817
+1692713014373	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2f82eM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692713015265	Marionette	INFO	Marionette enabled
+1692713015382	Marionette	INFO	Listening on port 40257
+WebDriver BiDi listening on ws://127.0.0.1:50259
+Read port: 40257
+1692713015753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50259/devtools/browser/d921868b-e1a0-4832-a5d2-311aa8115ab7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692713019627	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692713021030	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692713040294	Marionette	INFO	Stopped listening on port 40257
+1692713043429	geckodriver	INFO	Listening on 127.0.0.1:39585
+1692713043935	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileW7VJ3k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692713044723	Marionette	INFO	Marionette enabled
+1692713044859	Marionette	INFO	Listening on port 46225
+WebDriver BiDi listening on ws://127.0.0.1:37433
+Read port: 46225
+1692713045299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37433/devtools/browser/9f85c51b-abec-4469-9539-746a1555cdaa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692713049582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692713050367	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692713067695	Marionette	INFO	Stopped listening on port 46225
+1692713070653	geckodriver	INFO	Listening on 127.0.0.1:42807
+1692713071157	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "51907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileteqUw2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692713071830	Marionette	INFO	Marionette enabled
+1692713071949	Marionette	INFO	Listening on port 40255
+Read port: 40255
+WebDriver BiDi listening on ws://127.0.0.1:51907
+1692713072059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51907/devtools/browser/6b08a268-f604-4ec5-b433-cbeb7884b79f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692713075859	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692713078027	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1692713108729	Marionette	INFO	Stopped listening on port 40255
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 41: Script terminated by timeout at:
+nc@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:41:102652
+ns@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:41:68157
+b@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:30:20971
+C@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:30:21246
+w@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:30:21136
+
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/devtools-compatibility-browsers getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1692713111429	geckodriver	INFO	Listening on 127.0.0.1:43443
+1692713111934	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexBsF8G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692713112639	Marionette	INFO	Marionette enabled
+1692713112764	Marionette	INFO	Listening on port 34371
+WebDriver BiDi listening on ws://127.0.0.1:49603
+Read port: 34371
+1692713113142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49603/devtools/browser/d3b29e4b-325f-4780-ac26-927c4c4711ef
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692713123043	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692713124386	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1692713126904	geckodriver	INFO	Listening on 127.0.0.1:34511
+1692713126908	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYk5nWJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692713127611	Marionette	INFO	Marionette enabled
+1692713127716	Marionette	INFO	Listening on port 35901
+WebDriver BiDi listening on ws://127.0.0.1:40497
+Read port: 35901
+1692713128060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40497/devtools/browser/8095bc6f-8c9f-4c91-89de-0ccacdc765b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692713132912	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692713133626	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692713144338	Marionette	INFO	Stopped listening on port 35901
+JavaScript warning: https://dzen.ru/aif.ru, line 90: Script terminated by timeout at:
+t@https://dzen.ru/aif.ru:90:1613
+
+1692713147629	geckodriver	INFO	Listening on 127.0.0.1:41049
+1692713212996	geckodriver	INFO	Listening on 127.0.0.1:51151
+1692713213501	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecDRCte"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692713214184	Marionette	INFO	Marionette enabled
+1692713214291	Marionette	INFO	Listening on port 41885
+Read port: 41885
+WebDriver BiDi listening on ws://127.0.0.1:36407
+1692713214402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36407/devtools/browser/4d1e5260-3323-4bbd-b83d-74eef859175e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692713218441	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692713219177	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692713228818	Marionette	INFO	Stopped listening on port 41885
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 115: Script terminated by timeout at:
+27930/ic/<@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:115:967287
+
+1692713231374	geckodriver	INFO	Listening on 127.0.0.1:39705
+1692713231878	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "47295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGF1MuV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692713232533	Marionette	INFO	Marionette enabled
+1692713232641	Marionette	INFO	Listening on port 43377
+WebDriver BiDi listening on ws://127.0.0.1:47295
+Read port: 43377
+1692713232897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47295/devtools/browser/a31dc653-1480-4e35-91a7-69eb588a2a57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692713236709	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692713237788	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692713245668	Marionette	INFO	Stopped listening on port 43377
+[Child 9542, MediaDecoderStateMachine #1] WARNING: Decoder=7fd7b1ef8500 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 30: Script terminated by timeout at:
+w@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:30:21117
+
+1692713247948	geckodriver	INFO	Listening on 127.0.0.1:46323
+1692713248453	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBqiQrh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692713249145	Marionette	INFO	Marionette enabled
+1692713249252	Marionette	INFO	Listening on port 42793
+WebDriver BiDi listening on ws://127.0.0.1:50147
+Read port: 42793
+1692713249591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50147/devtools/browser/d91e6b44-5e04-44cd-9a27-15f4439b5f14
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692713253184	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692713253976	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692713266470	Marionette	INFO	Stopped listening on port 42793
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.183.2/zenlib-pub-article-desktop/loader.modern.bundle.js, line 8: Script terminated by timeout at:
+L_/</o.onload@https://static.dzeninfra.ru/s3/zen-lib/3.183.2/zenlib-pub-article-desktop/loader.modern.bundle.js:8:150320
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+1692713269281	geckodriver	INFO	Listening on 127.0.0.1:53645
+1692713269785	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecxaDD2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692713270492	Marionette	INFO	Marionette enabled
+1692713270635	Marionette	INFO	Listening on port 36757
+WebDriver BiDi listening on ws://127.0.0.1:36319
+Read port: 36757
+1692713270939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36319/devtools/browser/bf203174-2a52-4c46-8887-fa6e350dc1ed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692713274875	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692713275583	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692713283895	Marionette	INFO	Stopped listening on port 36757
+JavaScript warning: https://dzen.ru/aif.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/aif.ru:90:10425
+t@https://dzen.ru/aif.ru:90:1424
+
+1692713286414	geckodriver	INFO	Listening on 127.0.0.1:51349
+1692713286918	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "42395" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZ9tWmC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692713287582	Marionette	INFO	Marionette enabled
+1692713287698	Marionette	INFO	Listening on port 42971
+Read port: 42971
+WebDriver BiDi listening on ws://127.0.0.1:42395
+1692713287814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42395/devtools/browser/1575acdb-8121-40ca-a8a0-b724f06b53e6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692713291731	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692713292366	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 11080, MediaDecoderStateMachine #1] WARNING: Decoder=7ff39b4b8800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://static.dzeninfra.ru/yandex-video-player-iframe-api-bundles/shaka/2.5.17-yandex-patched-fix-ttml-parsing/shaka-player.compiled.js, line 461: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+1692713301578	Marionette	INFO	Stopped listening on port 42971
+1692713303969	geckodriver	INFO	Listening on 127.0.0.1:37893
+1692713304474	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "39269" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTEqrMU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692713305188	Marionette	INFO	Marionette enabled
+1692713305310	Marionette	INFO	Listening on port 42995
+WebDriver BiDi listening on ws://127.0.0.1:39269
+Read port: 42995
+1692713305665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1692713308474	Marionette	INFO	Stopped listening on port 42995
+1692713308493	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.error: SearchService: "maybeReloadEngines failed" (new Error("XPIProvider can't start bootstrap scope for google@search.mozilla.org after shutdown was already granted", "resource://gre/modules/addons/XPIProvider.jsm", 1977))
+Exiting due to channel error.
+Exiting due to channel error.
+1692714368878	geckodriver	INFO	Listening on 127.0.0.1:50293
+1692714369383	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37249" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVSpmzX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692714370047	Marionette	INFO	Marionette enabled
+1692714370184	Marionette	INFO	Listening on port 43073
+WebDriver BiDi listening on ws://127.0.0.1:37249
+Read port: 43073
+1692714370620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37249/devtools/browser/e471622b-e963-4173-ace4-0fa3635a9c75
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692714374634	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692714375451	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692714383681	Marionette	INFO	Stopped listening on port 43073
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 148: Script terminated by timeout at:
+__webpack_require__.n/t<@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:148:3677
+27930/ao/a<@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:115:933541
+
+1692714385207	geckodriver	INFO	Listening on 127.0.0.1:41199
+1692714385711	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "44329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTQ41ZS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692714387269	Marionette	INFO	Marionette enabled
+1692714387389	Marionette	INFO	Listening on port 41269
+Read port: 41269
+WebDriver BiDi listening on ws://127.0.0.1:44329
+1692714387504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44329/devtools/browser/16d6db7b-8b1d-4e35-b15b-329e4e67c480
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692714391212	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692714391914	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 13667, MediaDecoderStateMachine #1] WARNING: Decoder=7f8470449200 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 13667, MediaDecoderStateMachine #1] WARNING: Decoder=7f8470449200 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+[Child 13667, MediaDecoderStateMachine #1] WARNING: Decoder=7f8470447700 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://static.dzeninfra.ru/yandex-video-player-iframe-api-bundles/shaka/2.5.17-yandex-patched-fix-ttml-parsing/shaka-player.compiled.js, line 461: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+[Child 13667, MediaDecoderStateMachine #1] WARNING: Decoder=7f846cf0ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://static.dzeninfra.ru/yandex-video-player-iframe-api-bundles/shaka/2.5.17-yandex-patched-fix-ttml-parsing/shaka-player.compiled.js, line 461: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+[Child 13667, MediaDecoderStateMachine #1] WARNING: Decoder=7f846cf37600 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://static.dzeninfra.ru/yandex-video-player-iframe-api-bundles/shaka/2.5.17-yandex-patched-fix-ttml-parsing/shaka-player.compiled.js, line 461: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm
+1692714400258	Marionette	INFO	Stopped listening on port 41269
+JavaScript warning: https://dzen.ru/rbc.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/rbc.ru:90:10425
+t@https://dzen.ru/rbc.ru:90:1424
+
+1692714401738	geckodriver	INFO	Listening on 127.0.0.1:58319
+1692714402241	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRPDKYn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692714402925	Marionette	INFO	Marionette enabled
+1692714403034	Marionette	INFO	Listening on port 35617
+Read port: 35617
+WebDriver BiDi listening on ws://127.0.0.1:55325
+1692714403149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55325/devtools/browser/115b7862-03f5-4550-976d-64d1f6a1dea8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692714406783	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692714407499	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692714415944	Marionette	INFO	Stopped listening on port 35617
+JavaScript warning: https://dzen.ru/kpru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/kpru:90:10425
+t@https://dzen.ru/kpru:90:1424
+
+1692714417027	geckodriver	INFO	Listening on 127.0.0.1:32769
+1692714417532	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "36381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYTsTSW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692714418239	Marionette	INFO	Marionette enabled
+1692714418360	Marionette	INFO	Listening on port 33375
+WebDriver BiDi listening on ws://127.0.0.1:36381
+Read port: 33375
+1692714418706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36381/devtools/browser/6abe9f4b-fd54-4717-b493-ad7497d1032e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692714422265	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692714422924	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://top-fwz1.mail.ru/js/code.js, line 5: Script terminated by timeout at:
+B@https://top-fwz1.mail.ru/js/code.js:5:148
+f@https://top-fwz1.mail.ru/js/code.js:37:298
+b@https://top-fwz1.mail.ru/js/code.js:37:181
+
+1692714430912	Marionette	INFO	Stopped listening on port 33375
+1692715712519	geckodriver	INFO	Listening on 127.0.0.1:44367
+1692715713022	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "41439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4tBGBJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692715714658	Marionette	INFO	Marionette enabled
+1692715714964	Marionette	INFO	Listening on port 39997
+WebDriver BiDi listening on ws://127.0.0.1:41439
+Read port: 39997
+1692715715164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1692715718728	Marionette	INFO	Stopped listening on port 39997
+1692715718745	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.error: SearchService: "maybeReloadEngines failed" (new Error("XPIProvider can't start bootstrap scope for google@search.mozilla.org after shutdown was already granted", "resource://gre/modules/addons/XPIProvider.jsm", 1977))
+1692715728373	geckodriver	INFO	Listening on 127.0.0.1:42009
+1692715728378	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "44987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCR5KNd"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692715728832	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692715728937	Marionette	INFO	Listening on port 36961
+WebDriver BiDi listening on ws://127.0.0.1:44987
+Read port: 36961
+1692715729217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44987/devtools/browser/c1c4637f-3a18-41a1-819d-75641e47e8c6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692715732943	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692715733588	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692715742137	Marionette	INFO	Stopped listening on port 36961
+JavaScript warning: https://dzen.ru/aif.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/aif.ru:90:10425
+t@https://dzen.ru/aif.ru:90:1424
+
+1692715743592	geckodriver	INFO	Listening on 127.0.0.1:39181
+1692715744096	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "53289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuqDkqz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692715744508	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692715744662	Marionette	INFO	Listening on port 39929
+WebDriver BiDi listening on ws://127.0.0.1:53289
+Read port: 39929
+1692715744920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53289/devtools/browser/cbfcc786-45be-4964-b094-ed1490184ba5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692715748207	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692715748926	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692715757916	Marionette	INFO	Stopped listening on port 39929
+JavaScript warning: https://dzen.ru/rbc.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/rbc.ru:90:10425
+t@https://dzen.ru/rbc.ru:90:1424
+
+1692715759264	geckodriver	INFO	Listening on 127.0.0.1:55487
+1692715759268	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "46893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCfFPoL"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692715759736	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692715759838	Marionette	INFO	Listening on port 45389
+WebDriver BiDi listening on ws://127.0.0.1:46893
+Read port: 45389
+1692715760112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46893/devtools/browser/f78454b1-8b89-48c2-a237-b64ef41390d8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692715763717	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692715764738	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692715777649	Marionette	INFO	Stopped listening on port 45389
+1692715779016	geckodriver	INFO	Listening on 127.0.0.1:42187
+1692715779522	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "59367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileteYh0I"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692715780023	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692715780135	Marionette	INFO	Listening on port 46371
+WebDriver BiDi listening on ws://127.0.0.1:59367
+Read port: 46371
+1692715780504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59367/devtools/browser/5f15ece9-a89a-4e7a-a9fd-e0c779349f13
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692715783911	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692715784635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692715792774	Marionette	INFO	Stopped listening on port 46371
+JavaScript warning: https://static.dzeninfra.ru/video-player/0x096b91a/pages-common/vh-player-js/_vh-player-js.js, line 1: Script terminated by timeout at:
+4144/e.loadBundles@https://static.dzeninfra.ru/video-player/0x096b91a/pages-common/vh-player-js/_vh-player-js.js:1:16120
+6782/a.init/<@https://static.dzeninfra.ru/video-player/0x096b91a/pages-common/vh-player-js/_vh-player-js.js:1:114155
+
+1692715794042	geckodriver	INFO	Listening on 127.0.0.1:58773
+1692715794548	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "43351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKR7iI0"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692715795003	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692715795106	Marionette	INFO	Listening on port 33511
+WebDriver BiDi listening on ws://127.0.0.1:43351
+Read port: 33511
+1692715795390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43351/devtools/browser/33ec3b84-b301-4e72-bb0f-43aada20bf3b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692715798635	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692715799242	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692715806599	Marionette	INFO	Stopped listening on port 33511
+JavaScript warning: https://dzen.ru/topwar.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/topwar.ru:90:10384
+t@https://dzen.ru/topwar.ru:90:1424
+
+1692715808211	geckodriver	INFO	Listening on 127.0.0.1:51199
+1692715808715	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "47683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileteHPzU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692715809186	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692715809289	Marionette	INFO	Listening on port 33715
+WebDriver BiDi listening on ws://127.0.0.1:47683
+Read port: 33715
+1692715809449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47683/devtools/browser/54e04307-51bb-4fb7-8980-fa25a6711941
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692715813360	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692715814013	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://yastatic.net/vas-bundles/847198/bundles-es2017/loader.bundle.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1692715906426	Marionette	INFO	Stopped listening on port 33715
+JavaScript warning: https://yastatic.net/vas-bundles/847198/bundles-es2017/loader.bundle.js, line 1: Script terminated by timeout at:
+t@https://yastatic.net/vas-bundles/847198/bundles-es2017/loader.bundle.js:1:681053
+
+1692715907605	geckodriver	INFO	Listening on 127.0.0.1:40977
+1692715908108	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "53019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenL6iyj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692715908547	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692715908670	Marionette	INFO	Listening on port 39897
+WebDriver BiDi listening on ws://127.0.0.1:53019
+Read port: 39897
+1692715908934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53019/devtools/browser/476e80d1-366f-4ba3-9545-85e26708b0d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692715912119	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692715912710	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 19179, MediaDecoderStateMachine #1] WARNING: Decoder=7ff6bc81cc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 19179, MediaDecoderStateMachine #1] WARNING: Decoder=7ff6bc81cc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript, line 28: Script terminated by timeout at:
+n@https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript:28:1222
+
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1692715981398	Marionette	INFO	Stopped listening on port 39897
+JavaScript warning: https://yandex.ru/ads/system/context.js, line 2: Script terminated by timeout at:
+12251/t.protect/<@https://yandex.ru/ads/system/context.js:2:123420
+
+1692715982796	geckodriver	INFO	Listening on 127.0.0.1:49589
+1692715983302	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "41769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehXP7iH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692715983781	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692715983877	Marionette	INFO	Listening on port 44925
+WebDriver BiDi listening on ws://127.0.0.1:41769
+Read port: 44925
+1692715984195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:41769/devtools/browser/5cb9b6b6-32d5-4598-ac6d-9ce51659b6e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692715987965	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692715988676	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://yastatic.net/vas-bundles/849146/bundles-es2017/loader.bundle.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript warning: https://yastatic.net/vas-bundles/849146/bundles-es2017/loader.bundle.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1692716057927	Marionette	INFO	Stopped listening on port 44925
+JavaScript warning: https://yastatic.net/vas-bundles/849164/bundles-es2017/loader.bundle.js, line 1: Script terminated by timeout at:
+t@https://yastatic.net/vas-bundles/849164/bundles-es2017/loader.bundle.js:1:681927
+
+1692716059324	geckodriver	INFO	Listening on 127.0.0.1:51137
+1692716059829	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "55119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuIcCCt"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716060314	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716060423	Marionette	INFO	Listening on port 37085
+Read port: 37085
+WebDriver BiDi listening on ws://127.0.0.1:55119
+1692716060585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55119/devtools/browser/fbbeff21-ee86-41e3-8466-8832f96c6e2b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716068719	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716069809	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716086396	Marionette	INFO	Stopped listening on port 37085
+JavaScript warning: https://dzen.ru/a/ZOTJ5kYTBXRRVNNj, line 8: Script terminated by timeout at:
+n@https://dzen.ru/a/ZOTJ5kYTBXRRVNNj:8:237
+
+1692716087857	geckodriver	INFO	Listening on 127.0.0.1:56205
+1692716088361	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "42635" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemjr8Aq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716088835	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716088954	Marionette	INFO	Listening on port 46673
+Read port: 46673
+WebDriver BiDi listening on ws://127.0.0.1:42635
+1692716089097	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42635/devtools/browser/e0712e00-d383-476a-8e09-63f6c1592776
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716092681	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716093346	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 21645, MediaDecoderStateMachine #1] WARNING: Decoder=7f49685e8100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://static.dzeninfra.ru/yandex-video-player-iframe-api-bundles/shaka/2.5.17-yandex-patched-fix-ttml-parsing/shaka-player.compiled.js, line 461: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1692716185140	Marionette	INFO	Stopped listening on port 46673
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.183.2/zenlib-pub-article-desktop/loader.modern.bundle.js, line 8: Script terminated by timeout at:
+u_/</<@https://static.dzeninfra.ru/s3/zen-lib/3.183.2/zenlib-pub-article-desktop/loader.modern.bundle.js:8:144771
+
+1692716186680	geckodriver	INFO	Listening on 127.0.0.1:35241
+1692716187184	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "44579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7UwOaC"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716187692	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716187797	Marionette	INFO	Listening on port 38449
+WebDriver BiDi listening on ws://127.0.0.1:44579
+Read port: 38449
+1692716188246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44579/devtools/browser/38864a44-b070-45f6-9411-c270bd2e4a57
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716192420	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716193150	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://yastatic.net/vas-bundles/847198/bundles-es2017/loader.bundle.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript, line 28: Script terminated by timeout at:
+n@https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript:28:1222
+
+JavaScript warning: https://yastatic.net/vas-bundles/847198/bundles-es2017/loader.bundle.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: Failed to open media
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://yastatic.net/vas-bundles/847198/bundles-es2017/loader.bundle.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+1692716283317	Marionette	INFO	Stopped listening on port 38449
+JavaScript warning: https://yastatic.net/vas-bundles/847198/bundles-es2017/loader.bundle.js, line 1: Script terminated by timeout at:
+t@https://yastatic.net/vas-bundles/847198/bundles-es2017/loader.bundle.js:1:681053
+
+1692716284748	geckodriver	INFO	Listening on 127.0.0.1:35535
+1692716285254	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "44923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF1qpxS"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716285708	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716285878	Marionette	INFO	Listening on port 36531
+WebDriver BiDi listening on ws://127.0.0.1:44923
+Read port: 36531
+1692716286268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44923/devtools/browser/d5753733-ebb2-4a97-9fb9-1b29051a23ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716291001	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716291916	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1692716357973	Marionette	INFO	Stopped listening on port 36531
+JavaScript warning: https://yastatic.net/vas-bundles/849164/bundles-es2017/loader.bundle.js, line 1: Script terminated by timeout at:
+t@https://yastatic.net/vas-bundles/849164/bundles-es2017/loader.bundle.js:1:681927
+
+1692716359392	geckodriver	INFO	Listening on 127.0.0.1:38987
+1692716359897	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "60933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7pppeO"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716360387	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716360543	Marionette	INFO	Listening on port 39317
+WebDriver BiDi listening on ws://127.0.0.1:60933
+Read port: 39317
+1692716360855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60933/devtools/browser/8e7b533c-7f00-4b40-9cf2-be520ea1ad8a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716364392	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716365079	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 24355, MediaDecoderStateMachine #1] WARNING: Decoder=7f88ba337100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 24355, MediaDecoderStateMachine #1] WARNING: Decoder=7f88ba337100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file /build/firefox-KUUoVr/firefox-116.0.3+build2/dom/media/MediaDecoderStateMachineBase.cpp:166
+JavaScript warning: https://yastatic.net/vas-bundles/849164/bundles-es2017/loader.bundle.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://yastatic.net/vas-bundles/849164/bundles-es2017/loader.bundle.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://yastatic.net/vas-bundles/849164/bundles-es2017/loader.bundle.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://yastatic.net/vas-bundles/849164/bundles-es2017/loader.bundle.js, line 1: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://static.yoomoney.ru/transfers-client/widget-shop.21283cbdb933a0c24944.js, line 75: Script terminated by timeout at:
+u@https://static.yoomoney.ru/transfers-client/widget-shop.21283cbdb933a0c24944.js:75:407307
+
+JavaScript warning: https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript, line 28: Script terminated by timeout at:
+n@https://yastatic.net/safeframe-bundles/0.83/1-1-0/render.html line 26 > injectedScript:28:1222
+
+1692716456856	Marionette	INFO	Stopped listening on port 39317
+JavaScript warning: https://yandex.ru/ads/system/context.js, line 2: Script terminated by timeout at:
+12251/t.protect/<@https://yandex.ru/ads/system/context.js:2:123420
+
+1692716460309	geckodriver	INFO	Listening on 127.0.0.1:47293
+1692716460817	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "42027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenzAk4C"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716461796	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716462029	Marionette	INFO	Listening on port 39883
+WebDriver BiDi listening on ws://127.0.0.1:42027
+Read port: 39883
+1692716462615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:42027/devtools/browser/9869f691-653e-42a3-9a80-4db3252246f0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716468239	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716468956	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716479730	Marionette	INFO	Stopped listening on port 39883
+JavaScript warning: https://dzen.ru/aif.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/aif.ru:90:10425
+t@https://dzen.ru/aif.ru:90:1424
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1692716482381	geckodriver	INFO	Listening on 127.0.0.1:50671
+1692716482887	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "57285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexTeUQl"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716483945	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716484148	Marionette	INFO	Listening on port 45503
+WebDriver BiDi listening on ws://127.0.0.1:57285
+Read port: 45503
+1692716484479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57285/devtools/browser/32e4c360-1c23-497d-9e79-9979645cb10f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716487938	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716488748	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716496901	Marionette	INFO	Stopped listening on port 45503
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 115: Script terminated by timeout at:
+27930/ic/<@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:115:967287
+
+1692716498173	geckodriver	INFO	Listening on 127.0.0.1:32793
+1692716498677	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "35905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesgdVyB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716499269	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716499398	Marionette	INFO	Listening on port 46123
+WebDriver BiDi listening on ws://127.0.0.1:35905
+Read port: 46123
+1692716499790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35905/devtools/browser/bba863fd-aa2d-4e6f-8957-eb19fc117c96
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716503613	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716504379	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716514624	Marionette	INFO	Stopped listening on port 46123
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 148: Script terminated by timeout at:
+__webpack_require__.n/t<@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:148:3677
+27930/ao/a<@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:115:933541
+
+1692716516120	geckodriver	INFO	Listening on 127.0.0.1:51189
+1692716516625	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "37745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4FPHUG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716517290	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716517405	Marionette	INFO	Listening on port 44037
+Read port: 44037
+WebDriver BiDi listening on ws://127.0.0.1:37745
+1692716517535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37745/devtools/browser/01e1e72b-2236-4d46-8986-bd999b0882f8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716521068	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716521704	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716529817	Marionette	INFO	Stopped listening on port 44037
+1692716531265	geckodriver	INFO	Listening on 127.0.0.1:47885
+1692716531768	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "58319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLYLIEV"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716532238	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716532350	Marionette	INFO	Listening on port 38029
+Read port: 38029
+WebDriver BiDi listening on ws://127.0.0.1:58319
+1692716532526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58319/devtools/browser/4aadbbfc-5733-4a18-ac23-e7b8379d6ffe
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716536051	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716536784	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716545964	Marionette	INFO	Stopped listening on port 38029
+JavaScript warning: https://dzen.ru/topwar.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/topwar.ru:90:10425
+t@https://dzen.ru/topwar.ru:90:1424
+
+1692716548223	geckodriver	INFO	Listening on 127.0.0.1:40749
+1692716548231	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "51235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9o9vL8"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716548687	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716548792	Marionette	INFO	Listening on port 42543
+WebDriver BiDi listening on ws://127.0.0.1:51235
+Read port: 42543
+1692716549072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51235/devtools/browser/999540bd-9b24-4044-9100-cbabc6370021
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716552271	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716552957	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716564199	Marionette	INFO	Stopped listening on port 42543
+JavaScript warning: https://dzen.ru/aif.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/aif.ru:90:10384
+t@https://dzen.ru/aif.ru:90:1424
+
+1692716565411	geckodriver	INFO	Listening on 127.0.0.1:60869
+1692716565919	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "58719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemyTQKK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716566418	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716566530	Marionette	INFO	Listening on port 38269
+WebDriver BiDi listening on ws://127.0.0.1:58719
+Read port: 38269
+1692716566882	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:58719/devtools/browser/31b19a01-e99f-4f2b-aaee-69d24b1fd37f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716570309	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716570982	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716578602	Marionette	INFO	Stopped listening on port 38269
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1692716580036	geckodriver	INFO	Listening on 127.0.0.1:33635
+1692716580542	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "35733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiley5C47P"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716581384	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716581624	Marionette	INFO	Listening on port 45401
+Read port: 45401
+WebDriver BiDi listening on ws://127.0.0.1:35733
+1692716581910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35733/devtools/browser/baa90c38-a2a2-4e20-97a8-2ea5dc0ccad6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716587067	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716587986	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716601386	Marionette	INFO	Stopped listening on port 45401
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 30: Script terminated by timeout at:
+w@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:30:21117
+
+1692716604538	geckodriver	INFO	Listening on 127.0.0.1:34659
+1692716605047	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "33607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5fjedN"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716606229	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716606554	Marionette	INFO	Listening on port 37917
+Read port: 37917
+WebDriver BiDi listening on ws://127.0.0.1:33607
+1692716607254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33607/devtools/browser/c0b45b11-3edc-4e20-87b0-baa9e6618203
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716613864	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716614699	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716629370	Marionette	INFO	Stopped listening on port 37917
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 30: Script terminated by timeout at:
+k@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:30:21276
+
+1692716632418	geckodriver	INFO	Listening on 127.0.0.1:50919
+1692716632926	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "60077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePUjGCq"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716634110	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716634347	Marionette	INFO	Listening on port 34221
+WebDriver BiDi listening on ws://127.0.0.1:60077
+Read port: 34221
+1692716634934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60077/devtools/browser/435525d0-613b-444a-a37a-2f2580769fad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716640598	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716641320	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716653425	Marionette	INFO	Stopped listening on port 34221
+JavaScript warning: https://dzen.ru/topwar.ru, line 90: Script terminated by timeout at:
+t@https://dzen.ru/topwar.ru:90:1613
+
+1692716656897	geckodriver	INFO	Listening on 127.0.0.1:34669
+1692716657407	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "50979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev2nkJX"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716658394	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716658664	Marionette	INFO	Listening on port 40095
+Read port: 40095
+WebDriver BiDi listening on ws://127.0.0.1:50979
+1692716659147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50979/devtools/browser/36c0251b-9c5e-4e9c-9e0e-e6a46349382c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716665527	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716666422	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716677156	Marionette	INFO	Stopped listening on port 40095
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js, line 30: Script terminated by timeout at:
+w@https://static.dzeninfra.ru/s3/zen-lib/3.205.0/desktop2/desktop2.modern.ru.bundle.js:30:21117
+
+1692716680126	geckodriver	INFO	Listening on 127.0.0.1:41263
+1692716680634	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "48277" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0joaqj"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716681664	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716681863	Marionette	INFO	Listening on port 39877
+WebDriver BiDi listening on ws://127.0.0.1:48277
+Read port: 39877
+1692716682415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48277/devtools/browser/bcfc72c7-e321-41d0-b8e0-03d567830a2f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716688548	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716689517	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716696988	Marionette	INFO	Stopped listening on port 39877
+1692716698887	geckodriver	INFO	Listening on 127.0.0.1:34399
+1692716699394	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "37833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemDGAI4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716699986	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716700124	Marionette	INFO	Listening on port 39225
+WebDriver BiDi listening on ws://127.0.0.1:37833
+Read port: 39225
+1692716700525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37833/devtools/browser/d0d11292-1245-4b9d-a21d-95162713eb01
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716703737	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716704408	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716711744	Marionette	INFO	Stopped listening on port 39225
+JavaScript warning: https://dzen.ru/kpru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/kpru:90:10384
+t@https://dzen.ru/kpru:90:1424
+
+1692716713007	geckodriver	INFO	Listening on 127.0.0.1:52423
+1692716713013	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "56837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQba7vb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716713511	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716713636	Marionette	INFO	Listening on port 42339
+WebDriver BiDi listening on ws://127.0.0.1:56837
+Read port: 42339
+1692716714015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56837/devtools/browser/be30a2e4-a489-4a14-9523-17343565179b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716717205	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716717873	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716725714	Marionette	INFO	Stopped listening on port 42339
+1692716727318	geckodriver	INFO	Listening on 127.0.0.1:58957
+1692716727823	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "52265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea0AZmn"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716728373	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716728483	Marionette	INFO	Listening on port 43509
+WebDriver BiDi listening on ws://127.0.0.1:52265
+Read port: 43509
+1692716728809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52265/devtools/browser/2a609991-524b-4b3b-859c-ae3300c2ae07
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716732099	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716732738	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716741392	Marionette	INFO	Stopped listening on port 43509
+JavaScript warning: https://dzen.ru/topwar.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/topwar.ru:90:10425
+t@https://dzen.ru/topwar.ru:90:1424
+
+1692716742936	geckodriver	INFO	Listening on 127.0.0.1:37221
+1692716743446	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "59897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevI8iP4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716743982	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716744127	Marionette	INFO	Listening on port 36767
+Read port: 36767
+WebDriver BiDi listening on ws://127.0.0.1:59897
+1692716744266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59897/devtools/browser/1ee6c2d8-d63d-41a2-923a-b4325e52cf74
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716748054	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716748681	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1692716829820	Marionette	INFO	Stopped listening on port 36767
+JavaScript warning: https://static.dzeninfra.ru/s3/zen-lib/publishers/static-v2/article.modern.ru.bundle.5666d475aeec12aaf7a2.js, line 4: Script terminated by timeout at:
+c.n/t<@https://static.dzeninfra.ru/s3/zen-lib/publishers/static-v2/article.modern.ru.bundle.5666d475aeec12aaf7a2.js:4:2216
+60476/c/s<@https://static.dzeninfra.ru/s3/zen-lib/publishers/static-v2/article.modern.ru.bundle.5666d475aeec12aaf7a2.js:2:1165904
+
+1692716832377	geckodriver	INFO	Listening on 127.0.0.1:40015
+1692716832890	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "34327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEYyBS6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716833447	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716833559	Marionette	INFO	Listening on port 35537
+WebDriver BiDi listening on ws://127.0.0.1:34327
+Read port: 35537
+1692716833864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34327/devtools/browser/ae663a4a-ac7d-467c-873f-c7d6cd5c8c18
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716837463	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716838236	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716845385	Marionette	INFO	Stopped listening on port 35537
+JavaScript warning: https://dzen.ru/aif.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/aif.ru:90:10384
+t@https://dzen.ru/aif.ru:90:1424
+
+1692716846843	geckodriver	INFO	Listening on 127.0.0.1:36437
+1692716847351	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "52447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepZaCQG"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716847874	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716848018	Marionette	INFO	Listening on port 35781
+WebDriver BiDi listening on ws://127.0.0.1:52447
+Read port: 35781
+1692716848323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52447/devtools/browser/df98e0b0-78cc-4041-9028-54e236473277
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716851684	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716852340	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716859710	Marionette	INFO	Stopped listening on port 35781
+1692716861744	geckodriver	INFO	Listening on 127.0.0.1:35871
+1692716862254	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "49531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRBFTvy"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716862888	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716863068	Marionette	INFO	Listening on port 40103
+WebDriver BiDi listening on ws://127.0.0.1:49531
+Read port: 40103
+1692716863553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49531/devtools/browser/9a576bf4-79f0-40f7-8e23-d50f58f54c62
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716867907	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716868724	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716876967	Marionette	INFO	Stopped listening on port 40103
+JavaScript warning: https://dzen.ru/kpru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/kpru:90:10425
+t@https://dzen.ru/kpru:90:1424
+
+1692716878376	geckodriver	INFO	Listening on 127.0.0.1:49323
+1692716878880	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "44173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTC5iu6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716879445	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716879549	Marionette	INFO	Listening on port 44383
+WebDriver BiDi listening on ws://127.0.0.1:44173
+Read port: 44383
+1692716879664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:44173/devtools/browser/1fbfab27-1c69-4287-8e02-a79eeedb71f9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716883118	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716883717	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716892476	Marionette	INFO	Stopped listening on port 44383
+1692716894326	geckodriver	INFO	Listening on 127.0.0.1:36983
+1692716894832	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "60805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBaTTR1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716895360	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716895505	Marionette	INFO	Listening on port 35041
+WebDriver BiDi listening on ws://127.0.0.1:60805
+Read port: 35041
+1692716895820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60805/devtools/browser/fb5ee064-c861-4332-bff3-6e180eefb313
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716899828	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716900525	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716907364	Marionette	INFO	Stopped listening on port 35041
+JavaScript warning: https://dzen.ru/topwar.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/topwar.ru:90:10384
+t@https://dzen.ru/topwar.ru:90:1424
+
+1692716909619	geckodriver	INFO	Listening on 127.0.0.1:34953
+1692716910124	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "60091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQgBeQ7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716910617	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716910715	Marionette	INFO	Listening on port 44981
+Read port: 44981
+WebDriver BiDi listening on ws://127.0.0.1:60091
+1692716910840	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60091/devtools/browser/7031afff-17a0-4806-98e1-16d4ad7928dc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716914262	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716914887	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1692716919226	geckodriver	INFO	Listening on 127.0.0.1:33445
+1692716919733	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "34641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1Jb8o7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716920223	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716920326	Marionette	INFO	Listening on port 43927
+Read port: 43927
+WebDriver BiDi listening on ws://127.0.0.1:34641
+1692716920472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34641/devtools/browser/f871e77b-11fd-4b08-b309-46499ebac370
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716924565	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716925227	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716931592	Marionette	INFO	Stopped listening on port 43927
+JavaScript warning: https://dzen.ru/aif.ru, line 90: Script terminated by timeout at:
+547/</t.getSetting@https://dzen.ru/aif.ru:90:10384
+t@https://dzen.ru/aif.ru:90:1424
+
+1692716932870	geckodriver	INFO	Listening on 127.0.0.1:49325
+1692716933375	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "47849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTlycs1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716933842	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716933941	Marionette	INFO	Listening on port 45177
+WebDriver BiDi listening on ws://127.0.0.1:47849
+Read port: 45177
+1692716934337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:47849/devtools/browser/6b07b0a6-81f0-41b9-8af9-eaf937a40ac9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716937765	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716938377	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1692716945307	Marionette	INFO	Stopped listening on port 45177
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1692716946663	geckodriver	INFO	Listening on 127.0.0.1:33261
+1692716947167	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... pu" "--remote-debugging-port" "38915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileB98P2s"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1692716947582	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-gpu"
+1692716947678	Marionette	INFO	Listening on port 39959
+WebDriver BiDi listening on ws://127.0.0.1:38915
+Read port: 39959
+1692716948022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38915/devtools/browser/51544f6d-1931-493d-8936-03ee40fcd9cc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sso.passport.yandex.ru."
+1692716950973	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.error: ({})
+1692716951701	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
