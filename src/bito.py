@@ -1,32 +1,35 @@
+"""
+Handles operations with bito AI
+"""
 import subprocess
 
 class Bito(object):
     def __init__(self) -> None:
         self.cli: str = "bito"
-        
-    def shrink_news_file(self, input_file_path: str, output_file_path: str) -> None:
+       
+    def shrink_text_file(self, input_file_path: str, output_file_path: str) -> None:
         """
-        :param input_file: Path to file with initial news
-        :param output_file: Path to file to append modified news 
+        :param input_file: Path to file with initial text
+        :param output_file: Path to file to append modified text 
         """
         input_file = open(input_file_path, 'r')
                 
         for input_line in input_file:
             input_line: str = input_line.strip()  
-            modified_line: str = self.shrink_news(input_line)
+            modified_line: str = self.shrink_text(input_line)
             with open(output_file_path, 'a') as output_file:
                 output_file.write(modified_line + '\n')
         
         input_file.close()
         
 
-    def shrink_news(self, input_str: str) -> str:
+    def shrink_text(self, input_str: str) -> str:
         """
-        :param input_str: String with news to modify
+        :param input_str: String with text to modify
         
-        :return: News modified by AI
+        :return: Text modified by AI
         """
-        task: str = "Ответь на русском языке в одну строку. Сократи текст до 5 предложений выделить главные мысли:\n"
+        task: str = "Ответь на русском языке в одну строку. Сократи текст до 5 предложений. Выдели главные мысли:\n"
         input_str = task + input_str
         
         output: str = self.get_cli_answer(input_str)

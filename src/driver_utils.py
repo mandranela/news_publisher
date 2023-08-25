@@ -1,5 +1,7 @@
+"""
+Handles operations with selenium (emulating browser)
+"""
 import time
-from typing import List
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -7,9 +9,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.firefox.service import Service
 
-from models import Article
-from utils import parse_time_string
+from src.models import Article
+from src.utils import parse_time_string
 
 
 class Driver:
@@ -20,9 +23,10 @@ class Driver:
 
     def __init__(self):
         options = Options()
+        service = Service(executable_path=r'C:\\Users\\MANDR\Downloads\\geckodriver.exe',)
         options.add_argument('-headless')
-        options.add_argument('-disable-gpu')
-        self.driver = webdriver.Firefox(options=options)
+        options.add_argument('--disable-gpu')
+        self.driver = webdriver.Firefox(service=service, options=options)
 
     def __enter__(self):
         return self.driver
@@ -81,7 +85,7 @@ class SearchPage(BasePage):
 
         self.url_new = f"{self.url}?query={self.query}"
 
-    def get_links(self) -> List[str]:
+    def get_links(self) -> list[str]:
         """
         Получает и возвращает список ссылок на статьи,
         найденные по запросу.
@@ -108,7 +112,7 @@ class ChannelPage(BasePage):
     Класс для страницы канала на Dzen.
     """
 
-    max_scrolls = 10
+    max_scrolls = 5
 
     def __init__(self, driver: webdriver.Firefox, channel_url: str):
         """
@@ -120,7 +124,7 @@ class ChannelPage(BasePage):
         super().__init__(driver)
         self.channel_url = channel_url
 
-    def get_channel(self, last_update) -> List[Article]:
+    def get_channel(self, last_update) -> list[Article]:
         articles = []
         self.driver.get(self.channel_url)
         for _ in range(self.max_scrolls):
@@ -138,7 +142,6 @@ class ChannelPage(BasePage):
             published_time = parse_time_string(_article.find('div', {'class': 'zen-ui-common-layer-meta'}).text)
             title = _article.h2.text
             link = _article.find('a', {'class': 'zen-ui-line-clamp'})['href'].split('?')[0]
-            # print(f"Article: {title}\ntime difference = {published_time - last_update}")
             if published_time > last_update:
                 articles.append(Article(title=title, published_time=published_time, link=link))
         return articles
@@ -148,9 +151,6 @@ class ArticlePage(BasePage):
     """
     Класс для страницы статьи на Dzen.
     """
-
-    max_scrolls = 10
-
     def __init__(self, driver: webdriver.Firefox, article_url: str):
         """
         Инициализирует класс ArticlePage.
