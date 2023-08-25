@@ -56,7 +56,7 @@ class TextSimilarity:
         self.documents.extend(documents)
         processed_docs = [doc.lower().split() for doc in documents]
         self.dictionary.add_documents(processed_docs)
-        self.corpus.extend(self.dictionary.doc2bow(processed_docs))
+        self.corpus.extend(self.dictionary.doc2bow(*processed_docs))
         self.tfidf = models.TfidfModel(self.corpus)
         corpus_tfidf = self.tfidf[self.corpus]
         self.index = similarities.Similarity(None, corpus_tfidf, num_features=len(self.dictionary))
